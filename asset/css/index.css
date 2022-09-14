@@ -1,0 +1,122 @@
+/* body
+{
+    background-color: #24445C;
+    color: antiquewhite;
+} */
+
+/* header */
+
+.ESIS
+{
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+.d-flex ,.flex-row-reverse
+{
+    padding: 5px;
+    background-color:white;
+}
+
+.flex-row-reverse a
+{
+    margin: 10px;
+    color: white;
+    background-color:#24445C;
+    padding: 10px;
+    border-radius:10px;
+    text-decoration: none;
+}
+
+.navbar-expand-lg
+{
+    background-color: #24445C;
+}
+
+.link
+{
+    color: aliceblue;
+}
+
+.icons-contact
+{
+    font-size: 50px;
+}
+
+/* main */
+
+.colonne
+{
+    padding: 20px;
+}
+
+.colonne .card 
+{
+    color: black;
+}
+main
+{
+    background-color: white;
+}
+
+/* footer */
+
+footer
+{
+    background-color: #24445C;
+    color: white;
+}
+
+.footer
+{
+    padding: 40px;
+}
+
+.icons-contact a
+{
+    color: white;
+}
+
+.bx-up-arrow-alt
+{
+    font-size: 100px;
+}
+
+/* ______________________________________________________Autres pages__________________________________________ */
+
+
+/*_______________________horaire__________________________ */
+
+.horaire
+{
+    padding: 40px;
+    align-items: center;
+}
+
+.accordion-button
+{
+    background-color:#24445C;
+    color: white;
+}
+
+
+.horaire h5
+{
+    padding: 20px;
+    text-align: center;
+}
+
+/* ____________________BIbliotheque_____________________*/
+
+ul#bibliotheque li{
+    list-style: none;
+    padding:20px;
+    border: #cccccc solid 1px;
+    margin-bottom:5px;
+    background:#e6e6e6;
+  }
+
+.bilbiotheque
+{
+    padding: 20px;
+}
