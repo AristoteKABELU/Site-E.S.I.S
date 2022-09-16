@@ -4,6 +4,18 @@
     color: antiquewhite;
 } */
 
+.dropdown-item:active, .dropdown-item:hover
+{
+    background-color: #24445C;
+    color: white;
+}
+
+.card-body a 
+{
+    background-color: #24445C;
+    border: none;
+}
+
 /* header */
 
 .ESIS
@@ -28,6 +40,13 @@
     text-decoration: none;
 }
 
+.flex-row-reverse a:hover
+{
+    color: white;
+    background-color:dodgerblue;
+    transition: 500ms;
+}
+
 .navbar-expand-lg
 {
     background-color: #24445C;
@@ -43,11 +62,18 @@
     font-size: 50px;
 }
 
+.active-page
+{
+    color: white;
+    margin-right: 50px;
+}
+
 /* main */
 
 .colonne
 {
     padding: 20px;
+    margin: 5px;
 }
 
 .colonne .card 
@@ -72,9 +98,21 @@ footer
     padding: 40px;
 }
 
+.icons-contact
+{
+    height: 80px;
+}
+
 .icons-contact a
 {
     color: white;
+    padding: 5px;
+}
+
+.icons-contact a:hover
+{
+    font-size: 60px;
+    transition: 500ms;
 }
 
 .bx-up-arrow-alt
@@ -106,6 +144,11 @@ footer
     text-align: center;
 }
 
+.navbar-horizontal
+{
+    position: fixed;
+}
+
 /* ____________________BIbliotheque_____________________*/
 
 ul#bibliotheque li{
@@ -119,4 +162,65 @@ ul#bibliotheque li{
 .bilbiotheque
 {
     padding: 20px;
+}
+
+#bibliotheque h3
+{
+    font-size:xx-large;
+    color: #24445C
+}
+
+/* _____________Publication__________________ */
+
+#publication
+{
+    background-color:#24445C;
+}
+
+#publication .contenair
+{
+    width:500px;
+    background-color: gray;
+    border-radius: 30px;
+    align-content: center;
+    padding: 30px;
+}
+
+#publication .contenair div
+{
+    text-align: center;
+}
+
+#publication input
+{
+    margin: 10px;
+}
+
+#publication input:focus
+{
+    outline: rgba(0, 255, 0, 2) solid 1px;
+}
+
+#publication input[type='submit']
+{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+/*_________________________Centre excellence_________________________________*/
+
+#centre_exc
+{
+    padding: 10px;
+}
+
+#centre_exc  .bg
+{
+    background-color: #24445C;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: xx-large;
 }
