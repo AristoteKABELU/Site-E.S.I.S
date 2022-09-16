@@ -224,3 +224,42 @@ ul#bibliotheque li{
     margin-top: 10px;
     font-size: xx-large;
 }
+
+/*__________________A propos_____________________ */
+
+/* Nav-bar */
+
+.nav-bar-a-propos
+{
+    margin: 20px 0 10px 0;
+}
+
+.nav-bar-a-propos button
+{
+    background-color: #24445C;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+.nav-bar-a-propos .active
+{
+    padding: 10px;
+}
+
+.nav-bar-a-propos a
+{
+    text-decoration: none;
+    color: white;
+}
+
+/* Autres */
+
+.titre
+{
+    margin: 20px 0px;
+    padding: 10px;
+    background-color:#24445C;
+    color: white;
+    
+}
