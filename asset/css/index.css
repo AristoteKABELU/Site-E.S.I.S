@@ -209,6 +209,27 @@ ul#bibliotheque li{
     border-radius: 5px;
 }
 
+#publication
+{
+    background:#24445C;
+    text-align: center;
+    display: flex;
+    height: 100vh;    
+    justify-content: center;
+    font-family: roboto;
+}
+
+#publication .contenair
+{
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    position: relative;
+    top:5%;
+    border-radius: 8px;
+}
+
+
 /*_________________________Centre excellence_________________________________*/
 
 #centre_exc
