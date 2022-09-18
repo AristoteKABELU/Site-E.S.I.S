@@ -229,6 +229,10 @@ ul#bibliotheque li{
     border-radius: 8px;
 }
 
+#publication .promotion
+{
+    width: 250px;
+}
 
 /*_________________________Centre excellence_________________________________*/
 
