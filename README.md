@@ -2,14 +2,14 @@ GROUPE BRENDAN EICH
 
 Membres du groupe :
 1. DEBE NDATI Junior (reporteur)
-2. KABEMBA KABEBU Aristote( chef du groupe)
+2. KABEMBA KABELU Aristote( chef du groupe)
 3. KALIBONGO HANGI Raoul	
 4. KAMASHI MALENGA Chadrack
-5. KANENGELE KABILA Blessing
+5. KANENGELE WA KABILA Blessing
 6. KANYEMBUE MPIANA Hans
 7. KAYEMBE NUMBI Elvine
 8. KETA MUKUMBI Berlice
-9. MUTEMB YAV Dan (chef adjoint)
+9. MUTUND YAV Dan (chef adjoint)
 10. NGALULA TSHAMALA Qlevine
 
 QUESTIONS
