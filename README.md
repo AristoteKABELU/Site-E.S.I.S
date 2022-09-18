@@ -21,10 +21,11 @@ QUESTIONS
 on avait pas eu beaucoup de temps pour faire de rencontre, la majorité du groupe a un problème de choix de couleurs, le bootstrap n’est le point fort de notre groupe om avait du mal à gérer le bootstrap, on n’a pas eu assez de temps pour commenter chaque ligne de code mais on a commenté les lignes importantes, on ne peut pas dire qu’on a été vraiment inspiré lors de la création de notre site du coup on s’est inspiré sur le site existant, notre site n’est pas interactif par manque de temps
 
 3.	les points forts de votre proposition
-Notre site est responsif, le choix des couleurs est bon par rapport au site existant, et la manière dont les informations s’affichent chez nous est bon par rapport au site existant
+Notre site est responsive, le choix des couleurs est bon par rapport au site existant(Selon notre jugement),
+donne un visuel direct pour le E-learning ("Connexion" a l'acceuil), et donne une possibilité aux nouveaux de s'inscrire bien que cette page n'a pas été gerée 
 
 4.	les points faibles du site existant
-Comme point faible du site existant on s’est rendu compte s’est rendu compte que la manière dont les informations s’affichent sur le site est un peu en désordre on reprouve les informations de l’actualité sur la page  d’accueil alors qu’il y a une page dénommé actualiité, les choix de couleurs sur le site n’est pas vraiment bon
+Comme point faible du site existant on s’est rendu compte s’est rendu compte que la manière dont les informations s’affichent sur le site est un peu en désordre on reprouve les informations de l’actualité sur la page  d’accueil alors qu’il y a une page dénommé actualiité.
 
 5. l’histoire de la personne dont le groupe porte son nom
 Qui est BRENDAN EICH ?
