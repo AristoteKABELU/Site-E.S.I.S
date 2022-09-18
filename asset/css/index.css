@@ -286,5 +286,14 @@ ul#bibliotheque li{
     padding: 10px;
     background-color:#24445C;
     color: white;
-    
+}
+
+.btn-contact
+{
+    border:none;
+    background-Color:#24445C;
+    color: white;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
 }
